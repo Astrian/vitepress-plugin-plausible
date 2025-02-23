@@ -4,9 +4,8 @@
   "description": "Plausible plugin for vitepress",
   "keywords": [
     "documentation",
-    "google",
+    "plausible",
     "generator",
-    "vue",
     "vitepress"
   ],
   "author": "ZhongxuYang <himatthew@foxmail.com>; Astrian Zheng <happy.wheel6743@astrian.moe>",
