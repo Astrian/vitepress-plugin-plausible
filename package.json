@@ -9,7 +9,7 @@
     "vue",
     "vitepress"
   ],
-  "author": "ZhongxuYang <himatthew@foxmail.com>",
+  "author": "ZhongxuYang <himatthew@foxmail.com>; Astrian Zheng <happy.wheel6743@astrian.moe>",
   "license": "MIT",
   "type": "module",
   "exports": {
