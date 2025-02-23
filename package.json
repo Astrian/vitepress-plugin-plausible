@@ -1,7 +1,7 @@
 {
-  "name": "vitepress-plugin-google-analytics",
+  "name": "@astrian/vitepress-plugin-plausible",
   "version": "1.0.2",
-  "description": "google-analytics plugin for vitepress",
+  "description": "Plausible plugin for vitepress",
   "keywords": [
     "documentation",
     "google",
